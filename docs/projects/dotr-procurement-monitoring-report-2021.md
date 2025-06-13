@@ -15,7 +15,7 @@ data_sources:
 alignment: "Briefly explain how your project aligns with DEP Data Hub objectives"
 ---
 
-# [DOTr- Procurement Monitoring Report (2021]
+# DOTr - Procurement Monitoring Report (2021)
 
 *Note: To view the full metadata for this project, please see the raw file in our [GitHub repository](https://github.com/dataengineeringpilipinas/datahub/tree/main/projects).*
 
