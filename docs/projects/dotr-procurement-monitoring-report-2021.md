@@ -23,7 +23,10 @@ alignment: "Briefly explain how your project aligns with DEP Data Hub objectives
 A brief overview of the project. What does it aim to achieve? How does it contribute to community empowerment in the Philippines?
 
 ## Methodology
-[Describe the approach, tools, and techniques used]
+1. Extract data from PDF, probably by Amazon Textract
+2. ???
+3. Profit
+   
 
 ## Key Findings
 [Summarize the main insights or results]
